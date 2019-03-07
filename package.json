@@ -1,0 +1,24 @@
+{
+  "name": "s7demo",
+  "version": "1.0.0",
+  "description": "\"# s7demo\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/s7demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/s7demo/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/s7demo#readme",
+  "dependencies": {
+    "node-snap7": "^1.0.1",
+    "nodes7": "^0.3.2",
+    "s7client": "^1.0.4"
+  }
+}
